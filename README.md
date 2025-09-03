@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+this is a message - generator app in which users can create their messages with external website and transmiting to the message-generator app by proper authentication with signUp , signIn , otp-genertor with email verification and bycrpting password security with high-based security...
+
 ## Getting Started
 
 First, run the development server:
